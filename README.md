@@ -1,2 +1,2 @@
 # ACM-practice
-Daily ACM practice solutions. Feel free to text me if you have any advice or idea. : )
+Daily ACM practice solutions including problems from uva, codeforces, kattis. 
